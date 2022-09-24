@@ -1,0 +1,43 @@
+.background {
+    height: auto;
+  background-image: url(../img/dark.png);
+}
+.img{
+    padding:15px;
+    height: 400px;
+    width: 700px;
+}
+.imgc01{
+  padding:5px ;
+
+}
+.logoback{
+  height: 100px;
+  width: 400px;
+}
+.hr{
+  height: 1px;
+  border: 0;
+
+  background-color:rgb(65, 65, 235);
+}
+.worknumber{
+  text-align: center;
+  box-shadow: 10px 1px 5px teal;;
+}
+.aligncenter{
+  text-align: center;
+}
+.alignleft{
+  text-align: left;
+}
+.homepage{
+  display: block;
+  margin: 10 auto ;
+}
+.main{
+  width: 70%;
+  margin:5px auto;
+  padding:20px;
+  font-family: 'Times New Roman', Times, serif;
+}
